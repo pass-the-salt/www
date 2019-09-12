@@ -1,17 +1,15 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: Pass the SALT Conference
+subtitle: Security and Libre Talks
+email: contact@pass-the-salt.org
+description: Dedicated to Free Software and Security.<br />Free as in free beer and in Freedom.<br>English spoken conference.<br><a href="https://2018.pass-the-salt.org/">2018</a>, <a href="https://201.pass-the-salt.org/">2019</a>. 
+# baseurl: "/forty-jekyll-theme/" # the subpath of your site, e.g. /blog
+url: https://www.pass-the-salt.org/ # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Ecole Polytech, Avenue Paul Langevin
+city: Villeneuve d'Ascq
+zip_code: 59655 
+country: France
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,16 +19,16 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/passthesaltcon
 
 # build settings
-markdown: kramdown
+markdown: kramdown 
 
 sass:
   style: compressed

@@ -29,15 +29,15 @@
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
-			{% if site.phone %}
+			
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<span class="icon alt fa-twitter"></span>
+					<h3>Twitter</h3>
+					<span>{{ site.twitter_url }}</span>
 				</div>
 			</section>
-			{% endif %}
+			
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -66,9 +66,9 @@
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
-				{% if site.twitter_url %}
+				<!--{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
+				{% endif %}-->
 				{% if site.googleplus_url %}
 				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 				{% endif %}

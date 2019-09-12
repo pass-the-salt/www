@@ -2,7 +2,7 @@
 title: Archives
 layout: landing
 permalink: /archives/
-description: 'Slides, videos and other stuff from Pass the SALT and RMLL Security tracks.'
+description: 'Slides, videos, interviews and pictures from Pass the SALT and RMLL Security tracks.'
 image: /assets/images/lille.jpg
 
 nav-menu: true

@@ -26,7 +26,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/passthesaltcon
-
+twitter_account: passthesaltcon
 # build settings
 markdown: kramdown 
 

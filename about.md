@@ -14,7 +14,7 @@ nav-menu: true
 * **Editions:** [2018](https://2018.pass-the-salt.org/), [2019](https://2019.pass-the-salt.org/).
 
 **Team:** 
-* **Core team:** cbrocas, doegox, follc and moutane. 
+* **Core team:** [cbrocas](https://twitter.com/cbrocas), [doegox](https://twitter.com/doegox), [follc](https://twitter.com/follc) and [moutane](https://twitter.com/moutane). 
 * **Volunteers team:** each year, nothing would be possible without the volunteers team. The list of all of them is detailed on the website of each edition.
 
 **Association:**

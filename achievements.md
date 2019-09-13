@@ -8,7 +8,8 @@ nav-menu: true
 ---
 
 ## Contributions
-Here is a "living" list, certainly not exhaustive, of the contributions and interactions born of these moments of exchanges.
+Here is a "living" list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.
+
 * **2018**:
   * **code** - After putting [RetDec developpers](https://2018.pass-the-salt.org/schedule/#retdec) and [Radare2 devs](https://2018.pass-the-salt.org/schedule/#r2frida) in touch during 2018 edition of Pass the SALT, RetDec developers demontrates at r2con 2019 [initial RetDec integration into Radare2](https://github.com/radareorg/r2con2019/blob/master/talks/r2retdec/slides.pdf).
 * **2017**:
@@ -28,9 +29,9 @@ Here is a "living" list, certainly not exhaustive, of the contributions and inte
 * **2011**:
   * **presentation** - first meeting IRL between [Eric Leblond](https://home.regit.org/), Netfilter and Suricata developer, and [Paul Rascagnères](http://www.r00ted.com/), reverser and threat analyst, who then gave in 2014 [a talk together at hack.lu conference](http://archive.hack.lu/2014/hacklu-joker-presentation.pdf).
 
-
+<div id="speakers"/>
 ## Speakers
-You will find below **<u>some</u> of the speakers** who came to **Pass the SALT or/and to the RMLL Security tracks** year after year.<br> Note that it is **not a comprehensive list of the speakers** who came to PTS and RMLL Sec tracks. The **talks are not exhaustive neither**, just given as examples of talks given by these speakers. <br><br>**Thank so much for the trust to all of them!** :
+You will find below **<u>some</u> of the speakers** who came to **Pass the SALT or/and to the RMLL Security tracks** year after year.<br> Note that it is **not a comprehensive list of the speakers** who came to PTS and RMLL Sec tracks. The **talks are not exhaustive neither**, just given as examples of talks given by these speakers. <br><br>**Thank so much for the trust from all of them (listed or not)!** :
 <ul>
  	<li><strong>Free Software projects:</strong>
 <ul>

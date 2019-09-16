@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Achievements
-description: Contributions and interactions born during the conference.
+description: Contributions born during the conference.<br>Speakers <a href="https://frama.link/PyTa4ZJL">who came to PTS</a>.<br>Speakers <a href="https://frama.link/h7ZUa-rA">feedback</a>.
 permalink: /achievements/
 image: assets/images/pablo.jpg
 nav-menu: true
@@ -29,8 +29,26 @@ Here is a "living" list, certainly not exhaustive, of the contributions and inte
 * **2011**:
   * **presentation** - first meeting IRL between [Eric Leblond](https://home.regit.org/), Netfilter and Suricata developer, and [Paul Rascagnères](http://www.r00ted.com/), reverser and threat analyst, who then gave in 2014 [a talk together at hack.lu conference](http://archive.hack.lu/2014/hacklu-joker-presentation.pdf).
 
-<div id="speakers"/>
 ## Speakers
+
+### Feedback from speakers
+
+<div id="speakers-feedback"/>
+
+<div class="box alt">
+  <div class="row 100% uniform">
+    <div class="6u"><span class="image fit"><a href="https://twitter.com/orange_8361/status/1146364203390947330"><img src="/assets/images/orange.png" alt="orange" /></a></span></div>
+    <div class="6u$"><span class="image fit"><a href="https://twitter.com/angealbertini/status/1147805786351054849"><img src="/assets/images/ange.png" alt="ange" /></a></span></div>
+    <!-- Break -->
+    <div class="6u"><span class="image fit"><a href="https://twitter.com/d4_project/status/1146400026194825216"><img src="/assets/images/d4.png" alt="d4" /></a></span></div>
+    <div class="6u$"><span class="image fit"><a href="https://twitter.com/RfidGroup/status/1146823265257582592"><img src="/assets/images/proxmark.png" alt="proxmark" /></a></span></div>
+  </div>
+</div>
+
+### Speakers who came to Pass the SALT or RMLL Security Tracks
+
+<div id="speakers"/>
+
 You will find below **<u>some</u> of the speakers** who came to **Pass the SALT or/and to the RMLL Security tracks** year after year.<br> Note that it is **not a comprehensive list of the speakers** who came to PTS and RMLL Sec tracks. The **talks are not exhaustive neither**, just given as examples of talks given by these speakers. <br><br>**Thank so much for the trust from all of them (listed or not)!** :
 <ul>
  	<li><strong>Free Software projects:</strong>

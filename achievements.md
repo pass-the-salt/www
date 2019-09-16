@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Achievements
-description: 'Contributions born during the conference.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers">who came</a>.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers-feedback">feedback</a>.' # test
+description: 'Contributions born during the conference.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers-list">who came</a>.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers-feedback">feedback</a>.' # test
 permalink: /achievements/
 image: assets/images/pablo.jpg
 nav-menu: true
@@ -29,11 +29,11 @@ Here is a "living" list, certainly not exhaustive, of the contributions and inte
 * **2011**:
   * **presentation** - first meeting IRL between [Eric Leblond](https://home.regit.org/), Netfilter and Suricata developer, and [Paul Rascagnères](http://www.r00ted.com/), reverser and threat analyst, who then gave in 2014 [a talk together at hack.lu conference](http://archive.hack.lu/2014/hacklu-joker-presentation.pdf).
 
+<div id="speakers-feedback"/>
+
 ## Speakers
 
 ### Feedback from speakers
-
-<div id="speakers-feedback"/>
 
 <div class="box alt">
   <div class="row 100% uniform">
@@ -45,9 +45,9 @@ Here is a "living" list, certainly not exhaustive, of the contributions and inte
   </div>
 </div>
 
-### Speakers who came to Pass the SALT or RMLL Security Tracks
+<div id="speakers-list"/>
 
-<div id="speakers"/>
+### Speakers who came to Pass the SALT or RMLL Security Tracks
 
 You will find below **<u>some</u> of the speakers** who came to **Pass the SALT or/and to the RMLL Security tracks** year after year.<br> Note that it is **not a comprehensive list of the speakers** who came to PTS and RMLL Sec tracks. The **talks are not exhaustive neither**, just given as examples of talks given by these speakers. <br><br>**Thank so much for the trust from all of them (listed or not)!** :
 <ul>

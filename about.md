@@ -89,3 +89,5 @@ It is also very important for us that the **speakers feel comfortable** for comi
 The goal is for all lecturers to come in confidence, get rid of most of their practical questions to be able to take advantage of the event in the most open way.
 
 During the event, we also set up a speakers' dinner. The goal is to provide them yet another opportunity to get to know each other better, exchange and let ideas "pollinate" :-)
+
+**But so, for real, have you got any results to share? Yes we have!** Just give a look to our [achievements page](https://www.pass-the-salt.org/achievements/) :-)

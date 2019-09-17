@@ -7,7 +7,7 @@ image: assets/images/pablo.jpg
 nav-menu: true
 ---
 
-<center><i>Pablo Neira Ayuso and another 2018 Pass the SALT attendee, coding under the trees</i></center>
+<center><i>Pablo Neira Ayuso and another 2018 Pass the SALT attendee, coding under the trees - photo CC BY-NC-SA by cbrocas</i></center>
 
 ## Contributions
 Here is a "living" list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.

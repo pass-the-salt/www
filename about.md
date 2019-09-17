@@ -30,7 +30,7 @@ nav-menu: true
 
 ## History
 
-<span class="image fit"><img src="/assets/images/tor.jpg" alt="tor" /><center><i>Talk about Tor by Lunar during 2014 RMLL Security Track in Montpellier- photo CC BY-NC-SA by P. Teuwen</i></center></span>
+<span class="image fit"><img src="/assets/images/tor.jpg" alt="tor" /><center><i>Talk about Tor by Lunar during 2014 RMLL Security Track in Montpellier - photo CC BY-NC-SA by P. Teuwen</i></center></span>
 
 After many years of curation of the [Security Track](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) of the [RMLL](http://rmll.info/) (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a free (as in free beer) event dedicated to Security and Free Software: Pass the SALT, Security And Libre Talks. 
 
@@ -42,7 +42,7 @@ On this page, we will expose our goals for this new conference and the way we wa
 
 ## Our goals for Pass the SALT
 
-<span class="image fit"><img src="/assets/images/werner.jpg" alt="werner, éric and françois" /><center><i>Discussion between François Marier, Eric Leblond and Werner Koch during 2013 RMLL Security Track in Brussels</i></center></span>
+<span class="image fit"><img src="/assets/images/werner.jpg" alt="werner, éric and françois" /><center><i>Discussion between François Marier, Eric Leblond and Werner Koch during 2013 RMLL Security Track in Brussels - photo CC BY-NC-SA by P. Teuwen</i></center></span>
 
 To understand the objectives and the spirit, Peter Czanik, lecturer, gives us some answers in the [report of his participation in the RMLL 2017](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
 

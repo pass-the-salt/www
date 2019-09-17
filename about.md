@@ -14,8 +14,11 @@ nav-menu: true
 * **Editions:** [2018](https://2018.pass-the-salt.org/), [2019](https://2019.pass-the-salt.org/).
 
 **Team:** 
+
+<span class="image fit"><img src="/assets/images/team.jpg" alt="team" /><center><i>2018 Pass the SALT organization team</i></center></span>
+
 * **Core team:** [cbrocas](https://twitter.com/cbrocas), [doegox](https://twitter.com/doegox), [follc](https://twitter.com/follc) and [moutane](https://twitter.com/moutane). 
-* **Volunteers team:** each year, nothing would be possible without the volunteers team. The list of all of them is detailed on the website of each edition.
+* **Volunteers team:** each year, nothing would be possible without the volunteers team.<br/>Find the great team behind each edition: [2018](https://2018.pass-the-salt.org/#about), [2019](https://2019.pass-the-salt.org/#about).
 
 **Association:**
 * Pass the SALT conference is run by the "PASS THE SALT, SECURITY AND LIBRE TALKS", a non profit organization registered as a French "association" (ie non profit org) the September, 6th 2018 in Gironde, France under the reference W332023860.
@@ -25,6 +28,9 @@ nav-menu: true
 
 
 ## History
+
+<span class="image fit"><img src="/assets/images/tor.jpg" alt="tor" /><center><i>Talk about Tor by Lunar during 2014 RMLL Security Track in Montpellier- photo CC BY-NC-SA by P. Teuwen</i></center></span>
+
 After many years of curation of the [Security Track](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) of the [RMLL](http://rmll.info/) (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a free (as in free beer) event dedicated to Security and Free Software: Pass the SALT, Security And Libre Talks. 
 
 We have decided to do it because as a technical track, we no more felt "at home" in a conference that went more year after year toward a artistic, political and communities direction. This direction was very interesting for the RMLL but too far from our core topic to feel comfortable enough as track curators but also for the event organizers.
@@ -34,6 +40,9 @@ We are convinced of the value that Free Software provides to all of us, citizens
 On this page, we will expose our goals for this new conference and the way we want to follow to reach them.
 
 ## Our goals for Pass the SALT
+
+<span class="image fit"><img src="/assets/images/werner.jpg" alt="werner, éric and françois" /><center><i>Discussion between François Marier, Eric Leblond and Werner Koch during 2013 RMLL Security Track in Brussels</i></center></span>
+
 To understand the objectives and the spirit, Peter Czanik, lecturer, gives us some answers in the [report of his participation in the RMLL 2017](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
 
 Here is how he summarizes his coming this year:

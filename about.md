@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 description: History, goal and team.
 nav-menu: true
+# image: assets/images/werner.jpg
 ---
 
 ## Conference, team and association

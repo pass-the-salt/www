@@ -12,6 +12,8 @@ nav-menu: true
 ## Contributions
 Here is a "living" list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.
 
+* **2019**:
+  * **code** - After attending [Snyff (from Pentestlab)](https://twitter.com/snyff/) [talk about JWT security](https://2019.pass-the-salt.org/talks/45.html) during #PTS19, [Clément Oudot](https://twitter.com/clementoudot) fixed an [issue](https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/commit/e04a6f198342043ec82e9573e3b43b546cfe03dd) about "None" algorithm verification in JWT in [LemonLDAP::NG](https://twitter.com/lemonldapng/), the WebSSO product of which he is the lead developer :)
 * **2018**:
   * **code** - After putting [RetDec developpers](https://2018.pass-the-salt.org/schedule/#retdec) and [Radare2 devs](https://2018.pass-the-salt.org/schedule/#r2frida) in touch during 2018 edition of Pass the SALT, RetDec developers demontrates at r2con 2019 [initial RetDec integration into Radare2](https://github.com/radareorg/r2con2019/blob/master/talks/r2retdec/slides.pdf).
 * **2017**:

@@ -12,7 +12,7 @@ nav-menu: true
 * **Topic:** Pass the SALT is a **conference dedicated to Free Software and Security**. 
 * **Entrance: it is free** and it will remain as is. 
 * **Language: English** is the language of the event in order to be able to welcome in the most comfortable way possible speakers who do not speak French and so, **promote collaboration between people coming from all over the world**. 
-* **Editions:** [2018](https://2018.pass-the-salt.org/), [2019](https://2019.pass-the-salt.org/).
+* **Edition:** [2020](https://2020.pass-the-salt.org/). Archives: [2018](https://2018.pass-the-salt.org/), [2019](https://2019.pass-the-salt.org/).
 
 **Team:** 
 
@@ -44,9 +44,9 @@ On this page, we will expose our goals for this new conference and the way we wa
 
 <span class="image fit"><img src="/assets/images/werner.jpg" alt="werner, éric and françois" /><center><i>Discussion between François Marier, Eric Leblond and Werner Koch during 2013 RMLL Security Track in Brussels - photo CC BY-NC-SA by P. Teuwen</i></center></span>
 
-To understand the objectives and the spirit, Peter Czanik, lecturer, gives us some answers in the [report of his participation in the RMLL 2017](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
+To understand the objectives and the spirit, Peter Czanik, lecturer, gave us some answers in the [report of his participation in the RMLL 2017](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
 
-Here is how he summarizes his coming this year:
+Here is how he summarized his coming at the 2017 RMLL Security track:
 
 _"I participated again in Security track ... “**Participated**” as I did not only give a talk on syslog-ng there, but also sat in to most of the presentations and had **very good discussions both with visitors and fellow speakers**. The organizers brought together **talks from diverse IT security-related fields**, a very good opportunity for **cross-pollination of ideas**". (Note: emphasis is on our own)_
 
@@ -54,7 +54,7 @@ Peter has perfectly synthesized what we are trying to achieve through the RMLL S
 
 _Do our best to facilitate meetings and exchanges between lecturers and the public. The goal is that these exchanges generate collaborations between developers or projects but also produce new features in free software of the Security sphere._
 
-And it is what we want to achieve year after year with Pass the SALT.
+And it is what we will want to achieve year after year with Pass the SALT.
 
 ## How to reach our goal
 
@@ -64,14 +64,7 @@ First of all, we want to **provide a free (as in free beer) event to attendees**
 
 While respecting the technical and free software DNA of the Security track, we try to ensure that **as many security disciplines as possible are represented** in the subjects covered by the conferences given.
 
-In 2017, you were able to participate (or [read](https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=en) / [view](https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315) later) interventions on the following topics:
-
-* privacy ,
-* digital forensics ,
-* networks and systems security ,
-* cryptography,
-* low level offensive
-* or retro-engineering.
+During the first 2 Pass the SALT editions, we managed to offer many different sessions with among other topics: low level security, offensive security, secure programming, security at scale, privacy or network security.
 
 We want both **attendees and speakers to confront to different disciplines and topics of Security** that are not always familiar to them.
 

@@ -90,7 +90,7 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
  	<li><strong>Threat Intel and Incident Response:</strong>
 <ul>
  	<li><a href="http://tomchop.me/">Thomas Chopitea</a> (<a href="https://2018.pass-the-salt.org/schedule/#greendale">The story of Greendale</a>, <a href="https://2015.rmll.info/fir-reponse-sur-incidents-rapide?lang=en">FIR</a>),</li>
- 	<li><a href="http://www.foo.be/">Alexandre Dulaunoy</a> (<a href="https://schedule2013.rmll.info/programme/technique/securite/article/cve-search-un-logiciel-libre-der">CVE search</a>),</li>
+ 	<li><a href="http://www.foo.be/">Alexandre Dulaunoy</a> (<a href="https://schedule2013.rmll.info/programme/technique/securite/article/cve-search-un-logiciel-libre-der">CVE search</a>, <a href="https://2018.pass-the-salt.org/schedule/#fail">how to build an open threat intelligence sharing standard</a>, <a href="https://2019.pass-the-salt.org/talks/50.html">D4 project</a></li>
  	<li><a href="https://blog.rootshell.be/">Xavier Mertens</a> (a lot of talks and workshops about "your logs are my data ..." topic),</li>
  	<li><a href="https://twitter.com/rafi0t">Raphaël Vinot</a> (<a href="https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/les-objets-misp-et-comment-nous-changeons-le-paysage-du-partage-d-informations?lang=en">MISP</a>),</li>
 </ul>

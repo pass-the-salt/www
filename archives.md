@@ -54,9 +54,9 @@ nav-menu: true
 				<header class="major">
 					<h3>RMLL Security tracks</h3>
 				</header>
-				<p>As said in "About" page, Pass the SALT founders have curated during 10 years the Security track of the RMLL (French generalist FLOSS conference). It has been such a great experience with lot of good memories, friends and talks. You will find below the slides (with some pics and interviews). Videos are coming.</p>
+				<p>As said in "About" page, Pass the SALT founders have curated during 10 years the Security track of the RMLL (French generalist FLOSS conference). It has been such a great experience with lot of good memories, friends and talks. You will find below the slides (with some pics and interviews). Videos are also available since their recording began in 2012.</p>
 				<ul class="actions">
-					<li><a href="https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/" class="button">Slides</a></li>
+					<li><a href="https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/" class="button">Slides & Videos</a></li>
 				</ul>
 			</div>
 		</div>

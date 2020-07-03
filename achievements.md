@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Achievements
-description: 'Contributions born during the conference.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers-list">who came</a>.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers-feedback">feedback</a>.' # test
+description: '<a href="https://www.pass-the-salt.org/achievements/#contributions">Contributions</a> born during the conference.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers-list">who came</a>.<br>Speakers <a href="https://www.pass-the-salt.org/achievements/#speakers-feedback">feedback</a>.' # test
 permalink: /achievements/
 image: assets/images/pablo.jpg
 nav-menu: true

@@ -36,6 +36,7 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2018/slides/" class="button">2018</a></li>
 					<li><a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2019/slides/" class="button">2019</a></li>
+					<li><a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2020/slides/" class="button">2020</a></li>
 				</ul>
 				Videos :
 				<ul class="actions">

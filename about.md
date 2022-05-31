@@ -18,7 +18,7 @@ nav-menu: true
 
 <span class="image fit"><img src="/assets/images/team.jpg" alt="team" /><center><i>2018 Pass the SALT organization team</i></center></span>
 
-* **Core team:** [cbrocas](https://twitter.com/cbrocas), [_cryptocorn_](https://twitter.com/_cryptocorn_), [doegox](https://twitter.com/doegox), [follc](https://twitter.com/follc) and [moutane](https://twitter.com/moutane). 
+* **Core team:** [cbrocas](https://twitter.com/cbrocas), [cryptocorn](https://twitter.com/_cryptocorn_), [doegox](https://twitter.com/doegox), [follc](https://twitter.com/follc) and [moutane](https://twitter.com/moutane). 
 * **Volunteers team:** each year, nothing would be possible without the volunteers team.<br/>Find the great team behind each edition: [2018](https://2018.pass-the-salt.org/#about), [2019](https://2019.pass-the-salt.org/#about).
 
 **Association:**

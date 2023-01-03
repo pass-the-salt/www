@@ -38,6 +38,7 @@ nav-menu: true
 					<li><a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2019/slides/" class="button">2019</a></li>
 					<li><a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2020/slides/" class="button">2020</a></li>
 					<li><a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2021/slides/" class="button">2021</a></li>
+					<li><a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/slides/" class="button">2022</a></li>
 				</ul>
 				Videos :
 				<ul class="actions">

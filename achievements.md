@@ -90,7 +90,7 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
  	<li><a href="https://insufficient.coffee/">J.C. Jones</a> (<a href="https://sec2016.rmll.info/programme/#letsencrypt">Let's Encrypt</a>),</li>
  	<li><a href="http://werner.eifelkommune.de/">Werner Koch</a> (<a href="https://schedule2013.rmll.info/programme/technique/securite/article/gnupg-etat-de-l-art">GnuPG</a>),</li>
  	<li><a href="https://www.romainthomas.fr/">Romain Thomas</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/RJCGBC/">The Poor Man's Obfuscator</a>),</li>
- 	<li><a href="https://blog.quarkslab.com/author/ninon-eyrolles.html">Ninon Eyrolles</a> (<a href="https://2014.rmll.info/conference130">obfuscation, know your en</a>),</li>
+ 	<li><a href="https://blog.quarkslab.com/author/ninon-eyrolles.html">Ninon Eyrolles</a> (<a href="https://2014.rmll.info/conference130">obfuscation, know your ennemy</a>),</li>
 </ul>
  	<li><strong>Reverse and Low-Level:</strong>
 <ul>
@@ -107,7 +107,7 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
 <ul>
  	<li><a href="http://tomchop.me/">Thomas Chopitea</a> (several talks, among others: <a href="https://2018.pass-the-salt.org/schedule/#greendale">The story of Greendale</a>, <a href="https://2015.rmll.info/fir-reponse-sur-incidents-rapide?lang=en">FIR</a>),</li>
  	<li><a href="https://twitter.com/ArxSys">Solal Jacob</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/DQPJCB/">TAPIR : Trustable Artifact Parser for Incident Response</a>),</li>
- 	<li><a href="http://www.foo.be/">Alexandre Dulaunoy</a> (<a href="https://schedule2013.rmll.info/programme/technique/securite/article/cve-search-un-logiciel-libre-der">CVE search</a>, <a href="https://2018.pass-the-salt.org/schedule/#fail">how to build an open threat intelligence sharing standard</a>, <a href="https://2019.pass-the-salt.org/talks/50.html">D4 project</a></li>
+ 	<li><a href="http://www.foo.be/">Alexandre Dulaunoy</a> (several talks, last: <a href="https://2019.pass-the-salt.org/talks/50.html">D4 project</a>),</li>
  	<li><a href="https://blog.rootshell.be/">Xavier Mertens</a> (our most prolific speaker :), last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/8NDEN8/">Improve your Malware Recipes with Cyberchef</a>),</li>
  	<li><a href="https://twitter.com/rafi0t">Raphaël Vinot</a> (<a href="https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/les-objets-misp-et-comment-nous-changeons-le-paysage-du-partage-d-informations?lang=en">MISP</a>),</li>
 </ul>
@@ -152,6 +152,6 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
  	<li><a href="https://www.sinodun.com/team/sara-dickinson/">Sarah Dickinson</a> (<a href="https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/respect-de-la-vie-privee-et-dns?lang=en">DNS &amp; privacy</a>),<span id="result_box" class="" lang="en"></span></li>
  	<li><a href="https://mastodon.potager.org/@lunar">Lunar</a> (<a href="https://2014.rmll.info/conference311">Tor</a>, <a href="https://2015.rmll.info/spip.php?article1125&amp;lang=en">reproducible builds</a>),</li>
  	<li><span id="result_box" class="" lang="en"><span title="[code] contribution de Clément Oudot sur LemonLDAP-NG implémentant le support de Mozilla Persona/BrowserID suite à une présentation de François Marier (Mozilla) sur Persona aux RMLL 2013     "><a href="https://fmarier.org/">François Marier</a></span></span> (<a href="https://2015.rmll.info/spip.php?article1049&amp;lang=en">Security and privacy on the Web</a>),</li>
- 	<li><a href="https://twitter.com/sva">Sva</a> (<a href="https://prog2017.rmll.info/spip.php?article146&amp;lang=en">PEP</a>),</li>
+ 	<li><a href="https://twitter.com/sva">Sva</a> (<a href="https://prog2017.rmll.info/spip.php?article146&amp;lang=en">PEP</a>).</li>
 </ul>
 </li>

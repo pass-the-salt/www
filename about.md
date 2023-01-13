@@ -24,7 +24,7 @@ nav-menu: true
 **Association:**
 * Pass the SALT conference is run by the "PASS THE SALT, SECURITY AND LIBRE TALKS", a non profit organization registered as a French "association" (ie non profit org) the September, 6th 2018 in Gironde, France under the reference W332023860.
 * SIREN: 842 443 566, SIRET: 842 443 566 00018.
-* Location: 12 place de Lerme, 33000 Bordeaux, FRANCE.
+* Location: 11 rue Bellot des Minières, 33190 La Réole, FRANCE.
 * Contact: contact at pass-the-salt dot org.
 
 

@@ -12,6 +12,8 @@ nav-menu: true
 ## Contributions
 Here is a "living" list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.
 
+* **2023**:
+  * **idea/code** - [Alexandre Dulaunoy](https://twitter.com/adulau) from [CIRCL](https://www.circl.lu/), [decided](https://twitter.com/adulau/status/1677661654127968258) to add OpenWRT images to CIRCL's [Hashlookup](https://hashlookup.io/) service and Free Software according to a suggestion given by [Eloïse Brocas](https://twitter.com/_cryptocorn_) during the Q/A session of the [Hashlookup talk](https://cfp.pass-the-salt.org/pts2023/talk/NQY3WL/).
 * **2022**:
   * **code** - [Eric Leblond](https://twitter.com/Regiteric), after attending #pts22 [Mickaël Salaün's talk about Landlock](https://cfp.pass-the-salt.org/pts2022/talk/BGQGZC/), has added Landlock support to the Suricata code base. Thanks Eric for [the code](https://github.com/regit/suricata/tree/landlock-v1.0) (+ [merge](https://github.com/OISF/suricata/pull/7688) [requests](https://github.com/OISF/suricata/pull/7696)) and for [sharing the information](https://twitter.com/Regiteric/status/1549857304643780609)! 
   * **speaker comeback** - After starting their speaker journey (~) in our conference respectively during [#RMLLSec2016](https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/2016/videos/RMLL-Sec-2016-manalyze-a-static-analyzer-for-pe-files__high.mp4) and [#RMLLSec2017](https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/2017/videos/RMLL-Sec-2017-lief_63569_720p.mp4), [Ivan Kwiatkowski](https://twitter.com/JusticeRage/) came this year to deliver a brilliant [Keynote](https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/videos/PTS2022-Talk-10-ethics-in-cyberwar-times.mp4) and [Romain Thomas](https://twitter.com/rh0main) to show us [the huge progress of the LIEF capabilities](https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/videos/PTS2022-Talk-14-the-poor-mans-obfuscator.mp4), his security FLOSS project started 5 years earlier. We couldn't be prouder than to see these two young yet so experienced security researchers return to the scene of their debut. Hats off!
@@ -62,7 +64,8 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
 <ul>
 <li><strong>Security at large:</strong>
 <ul>
-	<li><a href="https://twitter.com/justicerage">Ivan Kwiatkowski</a> (keynote about <a href="https://cfp.pass-the-salt.org/pts2022/talk/LXHHPG/">Ethics in cyberwar times</a>),</li>
+    <li><a href="https://cmaurice.fr/">Clémentine Maurice</a> (keynote about <a href="https://cfp.pass-the-salt.org/pts2023/talk/T9XQNG/">Reproducible Research in Micro-architecture Security (and Beyond)</a>),</li>
+	<li><a href="https://twitter.com/justicerage">Ivan Kwiatkowski</a> (keynote about <a href="https://cfp.pass-the-salt.org/pts2022/talk/LXHHPG/">Ethics in cyberwar times</a>, closing talk about <a href="https://cfp.pass-the-salt.org/pts2023/talk/UV9F9J/">Why cyberoffense will never be regulated</a>),</li>
  	<li><a href="https://code.google.com/archive/p/corkami/">Ange Albertini</a> (keynote about  <a href="https://sec2016.rmll.info/program/#connectingcommunities">connecting communities through paper </a>),</li>
  	<li><a href="https://twitter.com/fredraynal">Frédéric Raynal</a> (keynote about <a href="https://2015.rmll.info/keynote-surprise?lang=en">20 years of Security</a>).</li>
 </ul>
@@ -94,6 +97,8 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
 </ul>
  	<li><strong>Reverse and Low-Level:</strong>
 <ul>
+ 	<li><a href="https://twitter.com/pwissenlit">Gabrielle Viala </a> (<a href="https://cfp.pass-the-salt.org/pts2023/talk/L38TN3/">For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation</a>),</li>
+ 	<li><a href="https://twitter.com/fdfalcon">Francisco Falcon</a> (<a href="https://cfp.pass-the-salt.org/pts2023/talk/9ZDVHG/">Vulnerabilities in the TPM 2.0 reference implementation code</a>),</li>
  	<li><a href="http://www.r00ted.com">Paul Rascagnères</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/EWYSJ7/">workshop about malware analysis with Ghidra & x64dbg</a>),</li>
  	<li><a href="https://virtualabs.fr/">Damien Cauquil</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/VXNE8H/">Binbloom reloaded</a>),</li>
  	<li><a href="https://code.google.com/archive/p/corkami/">Ange Albertini</a> (several talks about file formats among other things, last:  <a href="https://cfp.pass-the-salt.org/pts2022/talk/JPRTLR/">Abusing archive-based file formats</a>),</li>
@@ -107,15 +112,16 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
 <ul>
  	<li><a href="http://tomchop.me/">Thomas Chopitea</a> (several talks, among others: <a href="https://2018.pass-the-salt.org/schedule/#greendale">The story of Greendale</a>, <a href="https://2015.rmll.info/fir-reponse-sur-incidents-rapide?lang=en">FIR</a>),</li>
  	<li><a href="https://twitter.com/ArxSys">Solal Jacob</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/DQPJCB/">TAPIR : Trustable Artifact Parser for Incident Response</a>),</li>
- 	<li><a href="http://www.foo.be/">Alexandre Dulaunoy</a> (several talks, last: <a href="https://2019.pass-the-salt.org/talks/50.html">D4 project</a>),</li>
+ 	<li><a href="http://www.foo.be/">Alexandre Dulaunoy</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2023/talk/NQY3WL/">How to Secure Your Software Supply Chain and Speed-Up DFIR with Hashlookup</a>),</li>
  	<li><a href="https://blog.rootshell.be/">Xavier Mertens</a> (our most prolific speaker :), last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/8NDEN8/">Improve your Malware Recipes with Cyberchef</a>),</li>
- 	<li><a href="https://twitter.com/rafi0t">Raphaël Vinot</a> (<a href="https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/les-objets-misp-et-comment-nous-changeons-le-paysage-du-partage-d-informations?lang=en">MISP</a>),</li>
+ 	<li><a href="https://twitter.com/rafi0t">Raphaël Vinot</a> (<a href="https://cfp.pass-the-salt.org/pts2023/talk/DTDEC8/">Analyse your weird URLs the easy way</a>),</li>
 </ul>
 </li>
  	<li><strong>Network security and Secured communications:</strong>
 <ul>
+    <li><a href="https://twitter.com/cnotin">Clément Notin</a> (<a href="https://cfp.pass-the-salt.org/pts2023/talk/HMTA3X/">Decrypt Kerberos/NTLM “encrypted stub data” in Wireshark</a>),</li>
  	<li><a href="https://infosec.exchange/@cryptopote">Angèle Bossuat</a> and <a href="https://twitter.com/adriengnt">Andrien Guinet</a> (<a href="https://cfp.pass-the-salt.org/pts2022/talk/KTMCGR/">Mattermost End-to-End Encryption plugin </a>),</li>
- 	<li><a href="https://home.regit.org/">Eric Leblond</a> (several Suricata and Netfilter talks, last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/AGLDYH/">Write faster Suricata signatures easier with Suricata Language Server</a>),</li>
+ 	<li><a href="https://home.regit.org/">Eric Leblond</a> (several Suricata and Netfilter talks, last: <a href="https://cfp.pass-the-salt.org/pts2023/talk/EQL3KQ/">Using Suricata to detect lateral movement in Windows environment r</a>),</li>
  	<li><a href="https://www.netfilter.org/about.html">Pablo Neira Ayuso</a> (<a href="https://2018.pass-the-salt.org/schedule/#netfilter">Keynote: a 10 years journey in Linux firewalling</a>, <a href="http://2008.rmll.info/Fault-tolerant-stateful.html?lang=en">contracks tool for fault tolerant netfilter FW</a>),</li>
  	<li><a href="https://www.linkedin.com/in/tricaud/">Sébastien Tricaud</a> (<a href="https://2018.pass-the-salt.org/schedule/#iothoneypot">IoT Honeypot, new types of attacks</a>),</li>
 	<li><a href="http://www.bortzmeyer.org/">Stéphane Bortzmeyer</a> (<a href="https://2014.rmll.info/conference195">DNSSEC</a>),</li>
@@ -124,7 +130,7 @@ You will find below **<u>some</u> of the speakers** who came to **Pass the SALT 
  	<li><strong>OS and Containers:</strong>
 <ul>
  	<li><a href="https://digikod.net/">Mickaël Salaün</a> (<a href="https://cfp.pass-the-salt.org/pts2022/talk/BGQGZC/">Sandboxing your application with Landlock</a>),</li>
- 	<li><a href="https://twitter.com/PCzanik">Peter Czanik</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2022/talk/ER89BJ/">Sudo logs for blue teams</a>),</li>
+ 	<li><a href="https://twitter.com/PCzanik">Peter Czanik</a> (several talks, last: <a href="https://cfp.pass-the-salt.org/pts2023/talk/USSHMR/"> Syslog-ng 4.0 – where log management is heading</a>),</li>
  	<li><a href="http://paulk.fr/">Paul Kocialkowski</a> (<a href="https://sec2016.rmll.info/program/#verified-boot">verified boot and FLOSS</a>),</li>
  	<li><a href="https://www.qubes-os.org/team/#marek-marczykowski-g%C3%B3recki">Marek Marczykowski-Górecki</a> (<a href="https://sec2016.rmll.info/program/#qubes">QubesOS</a>),</li>
  	<li><a href="https://jpetazzo.github.io/">Jérôme Petazzoni</a> (<a href="https://2015.rmll.info/spip.php?article1127&amp;lang=en">Docker security</a>),</li>

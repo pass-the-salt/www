@@ -12,7 +12,8 @@ nav-menu: true
 * **Topic:** Pass the SALT is a **conference dedicated to Free Software and Security**. 
 * **Entrance: it is free** and it will remain as is. 
 * **Language: English** is the language of the event in order to be able to welcome in the most comfortable way possible speakers who do not speak French and so, **promote collaboration between people coming from all over the world**. 
-* **Edition:** [2022](https://2022.pass-the-salt.org/). Archives: [2021](https://2021.pass-the-salt.org/), [2020](https://2020.pass-the-salt.org/), [2019](https://2019.pass-the-salt.org/), [2018](https://2018.pass-the-salt.org/).
+* **Current edition:** [2023](https://2023.pass-the-salt.org/). 
+* **Archives:** [2018](https://2018.pass-the-salt.org/), [2019](https://2019.pass-the-salt.org/), [2020](https://2020.pass-the-salt.org/), [2021](https://2021.pass-the-salt.org/), [2022](https://2022.pass-the-salt.org/).
 
 **Team:** 
 

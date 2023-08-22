@@ -67,7 +67,7 @@ First of all, we want to **provide a free event to attendees**. According to us,
 **2> Content: an event with most of the security topics covered & a hybrid talks selection model**<br>
 While respecting the technical and free software DNA of the conference, we try to ensure that **as many security disciplines as possible are represented** in the topics covered by the talks and workshops.
 
-During the first 2 Pass the SALT editions, we managed to offer many different sessions with among other topics: low level security, offensive security, secure programming, security at scale, privacy or network security.
+During the first 2 Pass the SALT editions, we managed to offer many different sessions with among other topics: low level security, offensive security, secure programming, security at scale, privacy or network security. In 2023, we create 2 new sessions about Boot Security and Supply Chain Security. 
 
 We want both **attendees and speakers to confront to different disciplines and topics of Security** that are not always familiar to them. This allows everyone to discover new fields of exploration and to pick innovative solutions that she/he can reuse in her/his projects or work.
 
@@ -144,8 +144,8 @@ To acheive this goal, we provide:
 * **a dedicated communication channel:** on a private mailing list we provide complete information (how to come, to find accommodations, to do their talk, to contact us, to be reimbursed etc.),
 * **a full contact list and fast feedback loop:** in order to be able to get in touch and have answers quickly from the org team,
 * **a speakers dinner:** during the event, we also set up a speakers' dinner. The goal is to provide them yet another opportunity to get to know each other better, exchange and let ideas "pollinate" :-)
-* **some gifts:** in 2023, we have decided to thank our speakers for their work by offering them a few gifts (local biscuits and chocolates ...). We will see in the future if our budget will allow us to pursue this initiative.
-* **transport costs reimbursement:** we try to reimbuse the transports costs to speakers with low ressources and not backed by a company. In particular, we don't want to endorse recent changes seen among large tech companies which cut very aggressively their employees travel budget. We monitor the situation and hope these very profitable companies will soon return to a fairer attitude towards conferences and their employees.
+* **some gifts:** in 2023, we have decided to thank our speakers for their work by offering them a few gifts (local biscuits, chocolates ...). We will see in the future if our budget will allow us to pursue this initiative.
+* **transport costs reimbursement:** we try to reimburse the transports costs to speakers with low ressources and not backed by a company. In particular, we don't want to endorse recent changes seen among large tech companies which cut very aggressively their employees travel budget. We monitor the situation and hope these very profitable companies will soon return to a fairer attitude towards conferences and their employees.
 
 The goal is for all lecturers to come in confidence, get rid of most of their practical questions to be able to take advantage of the event in the most open way.
 

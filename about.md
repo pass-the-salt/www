@@ -20,7 +20,7 @@ nav-menu: true
 <span class="image fit"><img src="/assets/images/team.jpg" alt="team" /><center><i>2018 Pass the SALT organization team</i></center></span>
 
 * **Core team:** [cbrocas](https://twitter.com/cbrocas), [cryptocorn](https://twitter.com/_cryptocorn_), [doegox](https://twitter.com/doegox), [follc](https://twitter.com/follc) and [moutane](https://twitter.com/moutane). 
-* **Volunteers team:** each year, nothing would be possible without the volunteers team.<br/>Find the great team behind each IRL edition: [2018](https://2018.pass-the-salt.org/#about), [2019](https://2019.pass-the-salt.org/#about), [2022](https://2022.pass-the-salt.org/#team).
+* **Volunteers team:** each year, nothing would be possible without the volunteers team.<br/>Find the great team behind each IRL edition: [2018](https://2018.pass-the-salt.org/#about), [2019](https://2019.pass-the-salt.org/#about), [2022](https://2022.pass-the-salt.org/#team), [2023](https://2023.pass-the-salt.org/#team).
 
 **Association:**
 * Pass the SALT conference is run by the "PASS THE SALT, SECURITY AND LIBRE TALKS", a non profit organization registered as a French "association" (ie non profit org) the September, 6th 2018 in Gironde, France under the reference W332023860.
@@ -64,12 +64,72 @@ Here, we are not going to give a detailed list of things we think that have to b
 **1> Cost: a free access event**<br>
 First of all, we want to **provide a free event to attendees**. According to us, this is the best way to enable all kind of attendees to come : we think about students or people with low income but it is also a way to see professionals coming on their own without having to negociate money with their company.
 
-**2> Content: a security & free software event with most of the security topics covered**<br>
+**2> Content: an event with most of the security topics covered & a hybrid talks selection model**<br>
 While respecting the technical and free software DNA of the conference, we try to ensure that **as many security disciplines as possible are represented** in the topics covered by the talks and workshops.
 
 During the first 2 Pass the SALT editions, we managed to offer many different sessions with among other topics: low level security, offensive security, secure programming, security at scale, privacy or network security.
 
 We want both **attendees and speakers to confront to different disciplines and topics of Security** that are not always familiar to them. This allows everyone to discover new fields of exploration and to pick innovative solutions that she/he can reuse in her/his projects or work.
+
+**Pass the SALT talks selection model**
+
+We mix a public call for paper (CFP) with a small number of invited talks.
+
+Why doing it in such a way?
+
+Running a public CFP allows everybody to submit and brings more diversity into the talks and speakers lineup. On the other hand, invited talks are a way for us to give exposure to topics and/or speakers that, according to the org team, deserve it.
+However, invited talks are an adjustment variable and the vast majority (80% min) of the event content comes from the CFP. Invited talks have to be seen as a “Director cut” feature for the organization team in order to give a “color” to its event 😇
+
+**Acceptation rate & invited talks figures**
+
+  <style type="text/css">
+  .tg  {border-collapse:collapse;border-spacing:0;}
+  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    overflow:hidden;padding:10px 5px;word-break:normal;}
+  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  .tg .tg-x6qq{background-color:orange;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+  </style>
+  <table class="tg">
+  <thead>
+  <tr>
+    <th class="tg-x6qq">Year (IRL editions)</th>
+    <th class="tg-x6qq">Submissions</th>
+    <th class="tg-x6qq">Accepted</th>
+    <th class="tg-x6qq">Invited talks among accepted ones</th>
+    <th class="tg-x6qq">Acceptation Rate</th>
+  </tr>
+  </thead>
+   <tr>
+    <td class="tg-0pky"><b>2023</b></td>
+    <td class="tg-0pky"><b>45</b></td>
+    <td class="tg-0pky"><b>25</b></td>
+    <td class="tg-0pky"><b>3 (12%)</b></td>
+    <td class="tg-0pky"><b>55.5%</b></td>
+  </tr> 
+  <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">39</td>
+    <td class="tg-0pky">27</td>
+    <td class="tg-0pky">5 (18.5%)</td>
+    <td class="tg-0pky">69.2%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2019</td>
+    <td class="tg-0pky">46</td>
+    <td class="tg-0pky">35</td>
+    <td class="tg-0pky">3 (12.0%)</td>
+    <td class="tg-0pky">76.0%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2018</td>
+    <td class="tg-0pky">37</td>
+    <td class="tg-0pky">29</td>
+    <td class="tg-0pky">4 (14.0%)</td>
+    <td class="tg-0pky">78.3%</td>
+  </tr>
+  </table>
 
 **3> For attendees: an open minded and accessible atmosphere**<br>
 Beyond the different and varied subjects, we also try to establish a climate as friendly as possible in order to maximize exchanges. During the conference, it is very rare to find a "star attitude" among our speakers. They are all free software users and/or developers and so, perfectly understand the importance of sharing with and helping people. So, we set up:
@@ -77,11 +137,15 @@ Beyond the different and varied subjects, we also try to establish a climate as 
 * **social event:** organization provides some (usually 2) free drinks and tries to encourage one more time exchanges between people :)
 
 **4> For speakers: a comfortable and caring event**<br>
-It is also very important for us that the **speakers feel comfortable** for coming and attending : they usually don't know the event (and so its attendees), the city and even sometimes the country. So we provide:
+It is also very important for us that the **speakers feel comfortable** for coming and attending : they usually don't know the event (and so its attendees), the city and even sometimes the country. 
+
+To acheive this goal, we provide:
 
 * **a dedicated communication channel:** on a private mailing list we provide complete information (how to come, to find accommodations, to do their talk, to contact us, to be reimbursed etc.),
-* **full contact list and fast feedback loop:** in order to be able to get in touch and have answers quickly from the org team,
-* **speakers dinner:** during the event, we also set up a speakers' dinner. The goal is to provide them yet another opportunity to get to know each other better, exchange and let ideas "pollinate" :-)
+* **a full contact list and fast feedback loop:** in order to be able to get in touch and have answers quickly from the org team,
+* **a speakers dinner:** during the event, we also set up a speakers' dinner. The goal is to provide them yet another opportunity to get to know each other better, exchange and let ideas "pollinate" :-)
+* **some gifts:** in 2023, we have decided to thank our speakers for their work by offering them a few gifts (local biscuits and chocolates ...). We will see in the future if our budget will allow us to pursue this initiative.
+* **transport costs reimbursement:** we try to reimbuse the transports costs to speakers with low ressources and not backed by a company. In particular, we don't want to endorse recent changes seen among large tech companies which cut very aggressively their employees travel budget. We monitor the situation and hope these very profitable companies will soon return to a fairer attitude towards conferences and their employees.
 
 The goal is for all lecturers to come in confidence, get rid of most of their practical questions to be able to take advantage of the event in the most open way.
 

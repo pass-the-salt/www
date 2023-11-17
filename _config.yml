@@ -27,6 +27,8 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/passthesaltcon
 twitter_account: passthesaltcon
+mastodon_url: https://infosec.exchange/@passthesaltcon
+mastodon_account: passthesaltcon
 # build settings
 markdown: kramdown 
 

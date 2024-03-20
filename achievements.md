@@ -12,6 +12,8 @@ nav-menu: true
 ## Contributions
 Here is a "living" list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.
 
+* **2024**:
+  * **code** - [Yves Rutschle](https://www.rutschle.net/), after attending #pts22 [Mickaël Salaün's talk about Landlock](https://cfp.pass-the-salt.org/pts2022/talk/BGQGZC/), has added Landlock support to his project [sslh](https://github.com/yrutschle/sslh/) in version [2.1.0](https://github.com/yrutschle/sslh/releases/tag/v2.1.0). Thanks Yves and congrats for this implementation!
 * **2023**:
   * **idea/code** - [Alexandre Dulaunoy](https://twitter.com/adulau) from [CIRCL](https://www.circl.lu/), [decided](https://twitter.com/adulau/status/1677661654127968258) to add OpenWRT images to CIRCL's [Hashlookup](https://hashlookup.io/) service and Free Software according to a suggestion given by [Eloïse Brocas](https://twitter.com/_cryptocorn_) during the Q/A session of the [Hashlookup talk](https://cfp.pass-the-salt.org/pts2023/talk/NQY3WL/).
 * **2022**:
